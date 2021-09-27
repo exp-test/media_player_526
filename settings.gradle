@@ -1,0 +1,2 @@
+rootProject.name = "media_player_526"
+include ':media_player_module'
